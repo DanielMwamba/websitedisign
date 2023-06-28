@@ -1,0 +1,101 @@
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  margin: 0 10%;
+  background-color: navajowhite;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 46px;
+  color: teal;
+}
+
+h2 {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 30px;
+  color: teal;
+}
+
+.container {
+  border: 2px solid #a2a2a6;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.color-container {
+  width: 100%;
+
+}
+
+.cool-aqua {
+  background-color: aqua;
+  color: black;
+  border: 2px solid #a2a2a6;
+}
+
+.teal {
+  background-color: teal;
+  color: #000;
+  border: 2px solid #a2a2a6;
+}
+
+.blue {
+  background-color: blue;
+  border: 2px solid #a2a2a6;
+}
+
+.navajowhite {
+  background-color: rgb(255, 222, 173);
+  border: 2px solid #a2a2a6;
+
+}
+
+.color-panel {
+  display: flex;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+
+.police-panel {
+  display: inline-block;
+  width: 45%;
+}
+
+.police-label {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.Montserrat {
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.Ubuntu {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.Rajdhani {
+  font-family: 'Rajdhani', sans-serif;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.italic {
+  font-style: italic;
+  font-size: 100;
+}
+
+.regular {
+  font-style: normal;
+}
+
+.styl {
+  font-size: 20px;
+  font-family: 'Ubuntu', sans-serif;
+}
